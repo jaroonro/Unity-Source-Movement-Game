@@ -1,0 +1,18 @@
+Library: C:\Program Files\Unity\project\i want to eat burger\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--platform=Windows
+--backend=burst-llvm-16
+--target=X64_SSE2
+--global-safety-checks-setting=Off
+--meta-data-generation=False
+--dump=Function
+--float-precision=Standard
+--target-framework=NetFramework
+--linker-options=PdbAltPath="i want to eat burger_Data/Plugins/x86_64/lib_burst_generated.pdb"
+--generate-link-xml=Temp\burst.link.xml
+--temp-folder=C:\Program Files\Unity\project\i want to eat burger\Temp\Burst
+--key-folder=C:/Program Files/Unity/Hub/Editor/2022.3.40f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport
+--decode-folder=C:\Program Files\Unity\project\i want to eat burger\Library\Burst
+--output=C:\Program Files\Unity\project\i want to eat burger\Temp\BurstOutput\Data\Plugins\x86_64\lib_burst_generated
+--pdb-search-paths=Temp/ManagedSymbols/
+
+
